@@ -1,0 +1,320 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Independents catechisme. Or Some observations gathered out of Doctor Bastvvicke his religious and learned treatise entituled Independency not Gods ordinance. For the use of all poor ignorant, wavering, and seduced independents. By John Bernard philopresbytes.</title>
+            <author>Bernard, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76081</idno>
+            <idno type="STC">Wing B1064</idno>
+            <idno type="STC">Thomason E1186_5</idno>
+            <idno type="STC">ESTC R14251</idno>
+            <idno type="EEBO-CITATION">99859634</idno>
+            <idno type="PROQUEST">99859634</idno>
+            <idno type="VID">111729</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76081)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111729)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 167:E1186[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Independents catechisme. Or Some observations gathered out of Doctor Bastvvicke his religious and learned treatise entituled Independency not Gods ordinance. For the use of all poor ignorant, wavering, and seduced independents. By John Bernard philopresbytes.</title>
+                  <author>Bernard, John.</author>
+                  <author>Bastwick, John, 1593-1654. Independency not Gods ordinance.</author>
+               </titleStmt>
+               <extent>29, [3] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Macock,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Based on: Bastwick, John.  Independency not Gods ordinance.</note>
+                  <note>The word "philopresbytes" in title is in Greek characters.</note>
+                  <note>With a final imprimatur leaf.</note>
+                  <note>Annotation on Thomason copy: "Aug: 5th.".</note>
+                  <note>Reproductions of the originals in the Bodleian Library (Early English Books) and the British Library (Thomason Tacts).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bastwick, John, 1593-1654. --  Independency not Gods ordinance --  Early works to 1800.</term>
+               <term>Church polity --  Early works to 1800.</term>
+               <term>Congregationalism --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111729:1" rendition="simple:additions"/>
+            <p> THE INDEPENDENTS CATECHISME.</p>
+            <p>OR Some Obſervations gathered out of Doctor BASTVVICKE his Religious and Learned Treatiſe ENTITVLED INDEPENDENCY NOT GODS ORDINANCE.</p>
+            <p>For the uſe of all poor Ignorant, wavering, and ſeduced Independents.</p>
+            <p>BY JOHN BERNARD <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <q>
+               <bibl>MAT. 22. 19.</bibl>
+               <p>
+                  <hi>Ye do erre not knowing the Scrip<g ref="char:EOLhyphen"/>tures, nor the power of God.</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>1 JOHN 4. 1.</bibl>
+               <p>
+                  <hi>Beleeve not every Spirit but try the Spirits, whether they are of God, be<g ref="char:EOLhyphen"/>cauſe many falſe Prophets are gone out into the world.</hi>
+               </p>
+            </q>
+            <p>
+               <hi>London,</hi> Printed by <hi>John Macock.</hi> 1645.</p>
+            <pb facs="tcp:111729:2"/>
+         </div>
+         <div type="to_the_reader">
+            <pb n="2" facs="tcp:111729:2"/>
+            <head>TO THE <hi>Wavering</hi> or <hi>Seduced</hi> INDEPENDENT <hi>READER.</hi>
+            </head>
+            <opener>
+               <salute>Deare Brother,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He Learned Doctor hath preſented a large Treatiſe to the view of the world, which proves the Presbyterian Go<g ref="char:EOLhyphen"/>vernment DEPENDENT to be Gods Ordinance, and not
+<pb n="4" facs="tcp:111729:3"/> the Presbyterian Government INDEPENDENT, by ſtrong Arguments drawn from plain texts of Scripture. For three Reaſons following I have pre<g ref="char:EOLhyphen"/>vail'd with him that ſome Ob<g ref="char:EOLhyphen"/>ſervations gathered out of it, and digeſted into this ſhort Cate<g ref="char:EOLhyphen"/>chiſme, might be publiſhed for thy good.</p>
+            <p>Firſt becauſe thou maiſt be perſwaded thereby either not to waver, or to be perfectly re<g ref="char:EOLhyphen"/>formed from that dangerous errour.</p>
+            <p>Secondly, becauſe ſome have objected, The Doctors Trea<g ref="char:EOLhyphen"/>tiſe is redious, though every particular in it be abſolutely ne<g ref="char:EOLhyphen"/>ceſſary
+<pb n="5" facs="tcp:111729:3"/> to vindicate Truth from Error, this Epitome may in<g ref="char:EOLhyphen"/>vite thee ſeriouſly and ſpeedily to read it, thou mayſt happily finde much ſatisfaction to thy unſtable minde in it, if with the men of Berea, Act. 17. 7. Thou ſearch the Scriptures. If niceties delight thee I refer thee to the Doctors Treatiſe, which is a garden full of ſuch ſlow<g ref="char:EOLhyphen"/>ers.</p>
+            <p>Thirdly, becauſe thy uncha<g ref="char:EOLhyphen"/>ritable Teachers, not able to juſtifie their fond opinion; yet have unworthily vilified the Doctors ſound judgement cal<g ref="char:EOLhyphen"/>ling him Apoſtate, foole, that he is crazed in his braine, being
+<pb n="6" facs="tcp:111729:4"/> not miſled with their New Lights, but hath clearly diſco<g ref="char:EOLhyphen"/>vered the miſt of Errour where<g ref="char:EOLhyphen"/>with they have blinded thine, and others eyes. Chriſtian cha<g ref="char:EOLhyphen"/>rity binds me to give him deſer<g ref="char:EOLhyphen"/>ved applauſe, for his Pious, Lear<g ref="char:EOLhyphen"/>ned and Charitable worke; that thou mayſt be reformed thereby, is the prayer of him who wiſh<g ref="char:EOLhyphen"/>eth thy ſouls good equally with his own.</p>
+            <closer>
+               <signed>John Bernard.</signed>
+            </closer>
+         </div>
+         <div type="table_of_contents">
+            <pb n="7" facs="tcp:111729:4"/>
+            <head>
+               <hi>The firſt part of the Indepen<g ref="char:EOLhyphen"/>dents Catechiſme, upon theſe</hi> 4. <hi>Poſitions.</hi>
+            </head>
+            <p n="1">1. That there were more particular Aſſemblies, and Congregations in the Church of <hi>Jeruſalem</hi> than one.</p>
+            <p n="2">2. That all thoſe ſeve<g ref="char:EOLhyphen"/>rall Congregations made but one Church.</p>
+            <p n="3">3. That all thoſe ſeverall Congregations were under one Presbytery.</p>
+            <p n="4">
+               <pb n="8" facs="tcp:111729:5"/> 4. That the Government of the Church of <hi>Jeruſalem</hi> is to be a pattern of Go<g ref="char:EOLhyphen"/>vernment to all ſucceeding Ages.</p>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="part">
+            <pb n="9" facs="tcp:111729:5"/>
+            <head>THE <hi>INDEPENDENTS</hi> CHATECHISME.</head>
+            <div type="question">
+               <head>Quest.</head>
+               <p>WHat Govern<g ref="char:EOLhyphen"/>ment hath Chriſt Ordai<g ref="char:EOLhyphen"/>ned in the Church of <hi>Jeruſalem,</hi> and in the reſt of the Primitive Churches, to be a patrern unto all Churches for Go<g ref="char:EOLhyphen"/>vernment, Doctrine, and manners unto the end of the World?</p>
+               <p>
+                  <hi>Anſw.</hi> A Presbyterian Govern<g ref="char:EOLhyphen"/>ment, that is, by a Common-Councell of Presbyters (as in the Originall) or more plainely of a Religious, grave, ſolid, learned, and wiſe Councell of di<g ref="char:EOLhyphen"/>vines and miniſters, as was in the Aſ<g ref="char:EOLhyphen"/>ſembly,
+<pb n="10" facs="tcp:111729:6"/> 
+                  <hi>Act.</hi> 1. 15. unto whom Chriſt had given the power of the keyes, <hi>Mat.</hi> 18. 16. 17. 18. That this was the Go<g ref="char:EOLhyphen"/>vernment eſtabliſhed in the Church, plainely appeares by theſe texts of Scripture, <hi>Act.</hi> 14. 23. <hi>Act.</hi> 20. 17. 28. <hi>Tit.</hi> 1. 5. 1 <hi>Tim.</hi> 5. 17. <hi>Heb.</hi> 13. 7. 24. 1 <hi>Pet.</hi> 5. 1. 2. 3. <hi>Jam.</hi> 5. 14. <hi>Act.</hi> 15. 6. 22. <hi>Act.</hi> 16. 4. <hi>Act.</hi> 21. 17. The objections made by the Inde<g ref="char:EOLhyphen"/>pendent Brethren, concerning the qua<g ref="char:EOLhyphen"/>lification of the Presbyters are punctu<g ref="char:EOLhyphen"/>ally confuted in the <hi>D<hi rend="sup">rs</hi>
+                  </hi> Treatiſe page 19. to the 29. Shewing that there is no expectation of miracles in our times, though the Apoſtles and Primi<g ref="char:EOLhyphen"/>tive Presbyters were extraordinarily gifted for the confirmation of the truth of the Goſpell to all ſucceeding ages: Chriſt himſelfe proclaimes thoſe bleſ<g ref="char:EOLhyphen"/>ſed that believe without ſeeing of mi<g ref="char:EOLhyphen"/>racles, <hi>Iohn</hi> 20: 29. This qualification in the Apoſtles, and primitive Presby<g ref="char:EOLhyphen"/>ters is continued unto the end of the
+<pb n="11" facs="tcp:111729:6"/> World in the Presbyters and Miniſters of the Goſpell. Viz. the power of or<g ref="char:EOLhyphen"/>der, and preachings and the power of Juriſdiction, or rulings: Becauſe what ſoever is written, is for our inſtru<g ref="char:EOLhyphen"/>ction.</p>
+            </div>
+            <div type="question">
+               <head>
+                  <hi>Quest.</hi> Were there many congre<g ref="char:EOLhyphen"/>gations, and Aſſemblies in the mother Church of <hi>Ieruſalem,</hi> which in our dia<g ref="char:EOLhyphen"/>lect are called Churches: or did the multitudes of beleevers in <hi>Ieruſalem</hi> make but one congregation, as the Inde<g ref="char:EOLhyphen"/>pendents ſuppoſe?</head>
+               <p>
+                  <hi>Anſw.</hi> Theſe plaine texts of Scrip<g ref="char:EOLhyphen"/>ture following do clearely prove that the many ten thouſands of believers, converted by <hi>Iohn Baptist,</hi> by Chriſt, his Apoſtles, the 70. diſciples and the reſt of the primitive Presbyters, could never meet together in one, 10. or ſcarce<g ref="char:EOLhyphen"/>ly in 100. congregations to partake of all acts of worſhip to aedification, as <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ppeares by the multitude of beleevers mentioned, in <hi>Mat.</hi> 3. 1. 2. 5. 6. <hi>Mat.</hi>
+                  <pb n="12" facs="tcp:111729:7"/> 7. 12. <hi>Luke</hi> 16. 16. <hi>Luke</hi> 7. 29. <hi>Iohn</hi> 7. 31. 40. 46. 47. 48. 49. 50. <hi>Acts</hi> 2. from the 37. to the end of the chap<g ref="char:EOLhyphen"/>ter. <hi>Acts</hi> 4. 4. <hi>Act.</hi> 5. 14. <hi>Act.</hi> 6. 1. 2. 3. 7. <hi>Act.</hi> 21. 20. to ſuppoſe theſe mul<g ref="char:EOLhyphen"/>titudes could meet in one congregation to be edifyed is not agreeable to ſenſe or reaſon. Becauſe there were above one hundred preachers, and miniſters beſides the Apoſtles, and all theſe con<g ref="char:EOLhyphen"/>tinually taken up in praying &amp; preach<g ref="char:EOLhyphen"/>ing unto thoſe many ten thouſands of believers diſtributed into ſeverall con<g ref="char:EOLhyphen"/>gregations, that poſſibly they might e<g ref="char:EOLhyphen"/>difie their preachers being all ſo em<g ref="char:EOLhyphen"/>ployed, they could not leave their mi<g ref="char:EOLhyphen"/>niſtry to ſerve tables, <hi>Acts</hi> 6. 2. There<g ref="char:EOLhyphen"/>fore of neceſſity ſo many miniſters muſt have ſeverall places to preach in, and thoſe multitudes of believers be di<g ref="char:EOLhyphen"/>ſtributed into ſeveral congregations for them to preach to, and ſeverall places to baptize in, other-wiſe there would have beene great confuſion.</p>
+               <pb n="13" facs="tcp:111729:7"/>
+               <p> For but one of them could ſpeake at once to aedification. Theſe plaine teſti<g ref="char:EOLhyphen"/>monyes of Scripture above cited may convince the Independents error.</p>
+               <p>Becauſe they clearely take away the Foundation of their New-Churches which are built upon this miſtake, that there were no more believers in the Church of <hi>Ieruſalem</hi> then could meet in one congregation.</p>
+               <p>Four we<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ke objections to that pur<g ref="char:EOLhyphen"/>poſe are punctually confuted by the <hi>Dr.</hi> from <hi>page</hi> 42. unto the 53. <hi>page.</hi>
+               </p>
+            </div>
+            <div type="question">
+               <head>
+                  <hi>Quest.</hi> Were not all thoſe hundred preachers and the many ten thouſands of believers ſo ſcattered abroad in the perſecution we read of, <hi>Act.</hi> 8. 1. 2. 3. That there was left no more believers in <hi>Ieruſalem</hi> then could meet in one congregation?</head>
+               <p>
+                  <hi>Anſw.</hi> By that place is meant all the preachers, and miniſters onely, except the Apoſtles, as it appeares, <hi>Acts</hi> 8. 4. they that were ſcattered abroad, went
+<pb n="14" facs="tcp:111729:8"/> to and fro preaching the Word: As for the people, they were many of them caſt into priſon, and it is moſt probable that the reſt were in their owne houſes, there is not any mention made of their being ſcattered abroad; if they had, they had no Call to preach; now the text ſaith they did preach that were ſcattered abroad. But by their abiding in <hi>Ieruſalem</hi> the Apoſtles had both en<g ref="char:EOLhyphen"/>tertainment and ſafety, without them they could not have ſecur'd themſelves from the wolves: And the Apoſtles care was ſuch of feeding the ſheepe of Chriſt, that they continued in <hi>Ieruſalem</hi> to comfort and ſupport the Church; And refreſh the believers in this heat of perſecution: when they wanted the helpe of their faithfull miniſters, and Paſtors.</p>
+            </div>
+            <div type="question">
+               <head>
+                  <hi>Quest.</hi> Who Govern'd, ordered, and ruled this Church conſiſting of ſo many congregations and aſſemblies?</head>
+               <p>
+                  <hi>Anſw.</hi> The Apoſtles and Presbyters
+<pb n="15" facs="tcp:111729:8"/> (as in the Originall.) <hi>Act.</hi> 7. 19. 29. 30. <hi>Act.</hi> 15. 2. 4. 6. 22. <hi>Act.</hi> 16. 4. 5. <hi>Act.</hi> 21. 17, 18, 25. And howſoever the Apoſtles in the places above ſpeci<g ref="char:EOLhyphen"/>fied are differenc'd by that title from the Presbyters, yet in all acts of Go<g ref="char:EOLhyphen"/>vernment performed by them in the Church of <hi>Ieruſalem,</hi> they were for the ſubſtance of them ordinary acts ſuch as Presbyters dayly perform. And there<g ref="char:EOLhyphen"/>fore the Apoſtles are in them to be con<g ref="char:EOLhyphen"/>ſidered as Presbyters who received the power of Juriſdiction or ruling, and acting as Presbyters were in their ordi<g ref="char:EOLhyphen"/>nary employment; Though at other times they uſed Superlative authority as Chriſts extraordinary <hi>Ambaſſadours</hi> 2 <hi>Cor.</hi> 5. 20. Some Impertinent Ca<g ref="char:EOLhyphen"/>vills about the Apoſtles exerciſing the office of Presbyters made by the Inde<g ref="char:EOLhyphen"/>pendents are clearely taken away by the <hi>Dr.</hi> from <hi>pag.</hi> 84, unto the 94. <hi>p.</hi> And leaſt any ſhould conceit the A<g ref="char:EOLhyphen"/>poſtles were not Presbyters, becauſe
+<pb n="16" facs="tcp:111729:9"/> in thoſe places above it is ſaid the A<g ref="char:EOLhyphen"/>poſtles and Presbyters making a di<g ref="char:EOLhyphen"/>ſtinction betwixt them. The Apoſtle Saint <hi>Peter</hi> reſolves the doubt, 1 <hi>Pet.</hi> 5. 1. 2. 3. in which place, <hi>Peter</hi> ſtyles himſelfe a Presbyter or Elder; In the ſecond Epiſtle of <hi>Iohn ver.</hi> 1. Saint <hi>Iohn</hi> doth ſtyle himſelf Presbyter, or Elder, ſaying; <hi>The Presbyter to the Elect Lady.</hi>
+               </p>
+               <p>Saint <hi>Paul</hi> likewiſe ſtyles himſelfe a Presbyter if you compare 1 <hi>Tim.</hi> 4. 14. with 2 <hi>Tim.</hi> 1. 6. in which places it is evident that Saint <hi>Paul</hi> was one of the Presbytery.</p>
+            </div>
+            <div type="question">
+               <head>
+                  <hi>Quest.</hi> Why do the Independent Brethren conclude every of their con<g ref="char:EOLhyphen"/>gregations a particular Church, depen<g ref="char:EOLhyphen"/>ding upon no other Church; either for Government, Doctrine, or Manners, when the whole current of the Scrip<g ref="char:EOLhyphen"/>ture doth ſo clearly expreſſe the Pres<g ref="char:EOLhyphen"/>byterian Government Ordain'd by Chriſt in the mother Church of <hi>Jeru<g ref="char:EOLhyphen"/>ſalem</hi>
+                  <pb n="17" facs="tcp:111729:9"/> muſt be a pattern unto all daugh<g ref="char:EOLhyphen"/>ter Churches untill the end of the World.</head>
+               <p>Now it hath beene plainly proved that the Church of <hi>Ieruſalem</hi> conſiſted of many congregations, which made but one Church, And that one Church diſtributed into thoſe particular aſ<g ref="char:EOLhyphen"/>ſemblyes, was Governed by a Com<g ref="char:EOLhyphen"/>mon-Councell or Presbytery. The ex<g ref="char:EOLhyphen"/>ample of which Church the Indepen<g ref="char:EOLhyphen"/>dent Brethren pretend to follow.</p>
+               <p>
+                  <hi>Anſw.</hi> The Brethrens Anſwer is ſe<g ref="char:EOLhyphen"/>conded with theſe reaſons. Firſt, be<g ref="char:EOLhyphen"/>cauſe their particular Churches have for their patterne no leſſe then the whole <hi>Colledge</hi> of the Apoſtles and Presbyters, <hi>Act.</hi> 1. 15. Where they ſate in councell to chuſe a diſciple in the place of <hi>Judas,</hi> the number of the men, not of men and women as in <hi>verſe</hi> 14. being one hundred and twenty. The Independent Brethren miſtaking the members of the congregation, who
+<pb n="18" facs="tcp:111729:10"/> were men, and Brethren, <hi>verſe</hi> 16. and not men Brethren and Siſters, do per<g ref="char:EOLhyphen"/>emptorily conclude from hence, there were no more believers in <hi>Ieruſalem,</hi> then in this congregation; notwith<g ref="char:EOLhyphen"/>ſtanding the multitudes that believed, and were baptized, by <hi>Iohn Baptiſt,</hi> and this whole <hi>Colledge</hi> of Apoſtles and Presbyters before the Paſſion of Chriſt. Secondly, Becauſe their Chur<g ref="char:EOLhyphen"/>ches (though made up with a number of women) by imitating the Aſſembly of Apoſtles and Presbyters, every par<g ref="char:EOLhyphen"/>ticular Church doth thereby gaine the ſame Authority which our <hi>Saviour</hi> gave to the whole <hi>Colledge</hi> of Apoſtles, <hi>Mat.</hi> 18. 15. 16. 17. 18. which being extraordinary, and exceeding the te<g ref="char:EOLhyphen"/>nure of the Scripture to have ſo much power confered upon a ſmal congrega<g ref="char:EOLhyphen"/>tion, doth declare our Brethren the In<g ref="char:EOLhyphen"/>dependents to be wiſe above that which is written, 1 <hi>Cor.</hi> 4. 6. and in knowledge to reſemble the children of this world, <hi>Mat.</hi> 16. 8.</p>
+            </div>
+         </div>
+         <div n="2" type="part">
+            <pb n="19" facs="tcp:111729:10"/>
+            <head>The ſecond part of the INDE<g ref="char:EOLhyphen"/>PENDENTS Catechiſme, gathered out of the Treatiſe upon theſe ſix following Queres, concerning the ga<g ref="char:EOLhyphen"/>thering of CHURCHES.</head>
+            <p n="1">1. <hi>Quere.</hi> WHere it is commanded in the word of God that the Miniſters of the Goſpell ſhall run about from their owne places, and Charges to gather believing Chriſti<g ref="char:EOLhyphen"/>ans, from amongſt believing Chriſti<g ref="char:EOLhyphen"/>ans, into their owne Independent con<g ref="char:EOLhyphen"/>gregations, and debar them from all Church-fellowſhip, and communica<g ref="char:EOLhyphen"/>tion
+<pb n="20" facs="tcp:111729:11"/> with other believers in Gods holy Ordinances and Sacraments. And pro<g ref="char:EOLhyphen"/>claime, all that are not molded up after this new-modell to be a people out of covenant, to have no right to the ſeales of the New-covenant; neither they nor their children, though believers, whether this way of gathering Chur<g ref="char:EOLhyphen"/>ches was ever heard of before theſe daies whether this be to ſet up Chriſt as King upon his throne, to make diviſions and Sciſmes in Churches and among be<g ref="char:EOLhyphen"/>leivers and Brethren, and that upon groundleſſe pretences.</p>
+            <p n="2">2. <hi>Quere.</hi> Whether for the making any man or woman a member of the Church, it be neceſſary to the believe<g ref="char:EOLhyphen"/>ing, and being baptized, that they ſhould walke ſome dayes, weekes, monthes, or yeares with them that they may have experience of their converſa<g ref="char:EOLhyphen"/>tion before they can be admitted, and after that a confeſſion of their faith, ſhould be publikely made before the
+<pb n="21" facs="tcp:111729:11"/> congregation, and the evidences of their converſion, as the time when, the place where, the occaſion how, they were con<g ref="char:EOLhyphen"/>verted: And if any, either men, or wo<g ref="char:EOLhyphen"/>men, ſhall except againſt their evidence that then they are not to be admit<g ref="char:EOLhyphen"/>ted.</p>
+            <p n="3">3. <hi>Quere.</hi> Whether for making a<g ref="char:EOLhyphen"/>ny man a member or an officer of a Church, the conſent of the whole con<g ref="char:EOLhyphen"/>gregation, or the greater part of them beſides the Presbyters and Miniſters be requiſite.</p>
+            <p n="4">4. <hi>Quere.</hi> Whether for the admiſſi<g ref="char:EOLhyphen"/>on of any one into Church-fellowſhip and communion a private ſolemne Co<g ref="char:EOLhyphen"/>venant be requiſite or neceſſary for the making any one a member, the neglect or refuſall of the which makes them incapable of their member-ſhip or ad<g ref="char:EOLhyphen"/>miſſion.</p>
+            <p n="5">5. <hi>Quere.</hi> Whether the women and people as well as the Presbyters and Miniſters have the power of the Keyes.
+<pb n="22" facs="tcp:111729:12"/> And whether the women have all their voices in the Church, both for election and reprobation of members and offi<g ref="char:EOLhyphen"/>cers as well as the men, and whether the conſent of all the women, or the greateſt part of them to be requiſite, for the making any one a member or officer? So that if they gainſay it, be<g ref="char:EOLhyphen"/>ing the greater number, or allow of it, the moſt voices carry the buſineſſe.</p>
+            <p n="6">6. <hi>Quere.</hi> Whether the practice and preaching of all theſe things, and the gathering of Churches after this manner, be to ſet up Chriſt as King up<g ref="char:EOLhyphen"/>on his throne; and whether Churches and aſſemblyes thus congregated be the onely true Churches in the which only Chriſt rules and reigns as King, and all other that are not molded up after this faſhion, be no true congregated Chur<g ref="char:EOLhyphen"/>ches, and in the which Chriſt is not ſet up as King upon his throne?</p>
+            <div type="question">
+               <head>
+                  <hi>Quest.</hi> Who were commanded by Chriſt to preach the Goſpell, and to
+<pb n="23" facs="tcp:111729:12"/> propound to all Nations the conditi<g ref="char:EOLhyphen"/>ons upon which they were to be admit<g ref="char:EOLhyphen"/>ted into his Church; And who were to admit them?</head>
+               <p>
+                  <hi>Anſw.</hi> The Apoſtles onely and Presbyters, and Miniſters of the Goſ<g ref="char:EOLhyphen"/>pell; As appeares by Chriſts Com<g ref="char:EOLhyphen"/>miſſion given unto them and his pro<g ref="char:EOLhyphen"/>miſe to be with them untill the end of the World: <hi>Mat.</hi> 28. 19. 20. <hi>Marke</hi> 16. 15. 16. <hi>Acts</hi> 26. 15. to the 20. <hi>verſ.</hi> Here the Commiſſion was onely deli<g ref="char:EOLhyphen"/>vered to the Apoſtles and the Mini<g ref="char:EOLhyphen"/>ſters of the Goſpell that they ſhould admit whoſoever believed and were baptized.</p>
+            </div>
+            <div type="question">
+               <head>
+                  <hi>Quest.</hi> Did <hi>John Baptiſt</hi> or any of the primitive Apoſtles, and Miniſters ever call for a congregation to joyne with them in the admitting any mem<g ref="char:EOLhyphen"/>ber into the Church of Chriſt, or did they demand ſuch evidences and quali<g ref="char:EOLhyphen"/>fications as the Independents do in the foregoing <hi>Queres?</hi>
+               </head>
+               <pb n="24" facs="tcp:111729:13"/>
+               <p> 
+                  <hi>Anſw.</hi> Their preaching, and practiſe in Baptizing, which is admitting mem<g ref="char:EOLhyphen"/>bers into the Church of Chriſt, doth ſhew plainely they did it by vertue of their Commiſſion, no mention being made of a new Church, or congregati<g ref="char:EOLhyphen"/>on to have voices with them, or any o<g ref="char:EOLhyphen"/>ther conditions to be required, then <hi>Repent, believe, and be baptized;</hi> which is plainely proved: <hi>Mat.</hi> 3. 2. 6. <hi>Luke</hi> 3. 7. <hi>Luke</hi> 7. 29. <hi>John</hi> 3. 4. <hi>Act.</hi> 2. 37. 38. 4. <hi>Act.</hi> 8. 36. 37. 38.</p>
+            </div>
+            <div type="question">
+               <head>
+                  <hi>Quest.</hi> Where did the Apoſtles and primitive Presbyters delight to gather Churches?</head>
+               <p>
+                  <hi>Anſw.</hi> Amongſt the loſt ſheepe of the houſe of <hi>Iſrael,</hi> to bring them into Chriſts fold; as appeares by Saint <hi>Paul</hi> accompting it a diſhonour <hi>to build upon another mans Foundation. Ro<g ref="char:EOLhyphen"/>mans</hi> 15. 20.</p>
+            </div>
+            <div type="question">
+               <head>
+                  <hi>Queſt.</hi> What command have wo<g ref="char:EOLhyphen"/>men in the Church either for preach<g ref="char:EOLhyphen"/>ing, or giving their voices, in the ele<g ref="char:EOLhyphen"/>ction
+<pb n="25" facs="tcp:111729:13"/> or reprobation of members or of<g ref="char:EOLhyphen"/>ficers?</head>
+               <p>
+                  <hi>Anſw.</hi> No more command have they for any ſuch practiſe, then by Saint <hi>Pauls</hi> words is due unto them, 1 <hi>Cor.</hi> 14. 34. 35. 36. 1 <hi>Tim.</hi> 2. 11. 12. in both theſe places it is the Apoſtles ſpeciall care to prevent womens inter<g ref="char:EOLhyphen"/>medlings in matters of the Church, which may for ever ſilence the Indepen<g ref="char:EOLhyphen"/>dents weake opinion who tolerate wo<g ref="char:EOLhyphen"/>mens voicing it in their Churches con<g ref="char:EOLhyphen"/>trary to the Word of God.</p>
+            </div>
+            <div type="question">
+               <head>
+                  <hi>Quest.</hi> May diverſities of Religions be tolerated amongſt Chriſtians, or were they ever tolerated in the <hi>Old</hi> or <hi>New-Teſtament?</hi>
+               </head>
+               <p>
+                  <hi>Anſw.</hi> The practiſe of the holy men of God ſheweth they may not, and their practiſe is for our imitation; 1 <hi>Cor.</hi> 10. 6. 7. <hi>Rom.</hi> 15. 14. <hi>Gen.</hi> 17. 1. 2. 3. <hi>Gen.</hi> 18. 17. 18. 19. <hi>Joſ.</hi> 24. 14. 15. 16. In theſe places it is cleare that <hi>Abra<g ref="char:EOLhyphen"/>ham, Iſaac, Iacob,</hi> and <hi>Ioſhua</hi> ſuffered no
+<pb n="26" facs="tcp:111729:14"/> 
+                  <hi>Idolatry</hi> nor Sects in their families, for this had been to tolerate all Religions, or to worſhip the true God in a falſe manner, and not to do Juſtice and Judgement.</p>
+            </div>
+            <div type="question">
+               <head>
+                  <hi>Quest.</hi> Are the examples of the Pa<g ref="char:EOLhyphen"/>triarches, Prophets, and Apoſtles, who tolerated onely the true Religion; or the examples of <hi>Poland, Tranſylvania</hi> and <hi>Holland,</hi> to be followed, who tole<g ref="char:EOLhyphen"/>rate all Religions?</head>
+               <p>
+                  <hi>Anſw.</hi> Saint <hi>Paul</hi> will decide the controverſie ſufficiently for us, if we delight not more in novelties then in the old way preſcrib'd in the written Word: <hi>Rom.</hi> 12. 1, 2. <hi>Phil.</hi> 3. 17. <hi>Phil.</hi> 4. 8, 9. In which places Saint <hi>Paul</hi> doth declare that we muſt not faſhion our ſelves according to this World, we muſt not imitate the Saints of God in their failings, and we muſt walke ſo as we have him &amp; the reſt of the Saints for an example, <hi>Our bleſſed Saviour blames the Angell of the Church of Per<g ref="char:EOLhyphen"/>gamus</hi>
+                  <pb n="27" facs="tcp:111729:14"/> 
+                  <hi>Thyatira, Laodicea, Revel.</hi> 2. 12. 13, 14. to the 20. <hi>Revel.</hi> 3. 14, 15, 16. <hi>Becauſe they tolerated Balaam and Ieza<g ref="char:EOLhyphen"/>bell, ſhewing his great diſpleaſure againſt them for it;</hi> Now theſe that labour for a toleration of all Religions muſt needs be Luke-warme, ſuch as God will ſpue out of his mouth.</p>
+            </div>
+            <div type="question">
+               <head>
+                  <hi>Queſt.</hi> What examples have we in Scripture for the ſuppreſſing of falſe Teachers, when they are openly diſco<g ref="char:EOLhyphen"/>vered?</head>
+               <p>
+                  <hi>Anſw.</hi> The Prophets and Elders of <hi>Iſrael</hi> in all ages who had the ſword of juſtice in their hands to puniſh all ſe<g ref="char:EOLhyphen"/>ducers as appeares, 1 <hi>Kings</hi> 18. 21. <hi>Deutr.</hi> 13. 1, 2, 3, 4, 5. <hi>Iudges</hi> 6. 30, 31. and their practiſe is for our Magiſtrats imitation, 1 <hi>Cor.</hi> 10. 6, 7. <hi>Romans</hi> 15. 14.</p>
+            </div>
+            <div type="question">
+               <head>
+                  <hi>Queſt.</hi> What eſteeme ought Chri<g ref="char:EOLhyphen"/>ſtians to have of thoſe Independent mi<g ref="char:EOLhyphen"/>niſters who inſtead of preaching the Word of God, in ſeaſon and out of
+<pb n="28" facs="tcp:111729:15"/> ſeaſon to convert ſoules, preach their owne traditions and inventions, to de<g ref="char:EOLhyphen"/>ſtroy thoſe precious ſoules which o<g ref="char:EOLhyphen"/>ther Godly Miniſters have conver<g ref="char:EOLhyphen"/>ted?</head>
+               <p>
+                  <hi>Anſw.</hi> Saint <hi>Pauls</hi> ſentence is of a<g ref="char:EOLhyphen"/>ny ſuch falſe teacher, <hi>Let him be accur<g ref="char:EOLhyphen"/>ſed, Gal.</hi> 1. 8, 9. And if we will believe our Saviours words; Such mens con<g ref="char:EOLhyphen"/>dition is very dangerous whatſoever they may promiſe to themſelves, <hi>Mat.</hi> 18. 6, 7. <hi>Woe be unto that man by whom the offence cometh.</hi> Now ſuch offence is come by wandring after the Inde<g ref="char:EOLhyphen"/>pendent Miniſters New-lights, that all Godly Miniſters may with Saint <hi>Paul</hi> wiſh they were cut off, who trouble the Church, by ſuch groundleſſe pre<g ref="char:EOLhyphen"/>tences.</p>
+               <p>And whereas all Godly Presbyters and Miniſters, who preach Chriſt out of good will, open the eyes of the blind, turne them from darkeneſſe to light, and from the power of Satan unto
+<pb n="29" facs="tcp:111729:15"/> God, ought highly to be Honour'd for their workes ſake; 1 <hi>Theſſ.</hi> 5. 13. <hi>Yea, that they deſerve double Honour;</hi> 1 <hi>Tim.</hi> 5. 17. Yet the ſame Apoſtle doth on the contrary give unto all believers a ſpeciall caution <hi>To beware of falſe teachers Rom.</hi> 16. 17, 18. <hi>(Coloſſ.</hi> 2. 8. 2 Epiſtle of Saint <hi>Iohn</hi> 9, 10, 7. <hi>verſes) Concluding that they that are ſuch ſerve not the Lord Ieſus Chriſt, but their owne bellies, and with faire ſpeech, and flatter<g ref="char:EOLhyphen"/>ing, deceive the hearts of the ſimple.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:111729:16"/>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <pb facs="tcp:111729:16"/>
+            <p> Imprimatur,</p>
+            <closer>
+               <signed>Ja. Cranford.</signed>
+               <dateline>
+                  <date>July 3. 1645.</date>
+               </dateline>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
